@@ -23,9 +23,22 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+ In simple terms, every individual is not alike, some may not be able to visualize which we can clearly, or understand what we can easily.Also some may not have access to desktop or computers and has the option to use phone to view things etc. So to define web accessibility we can say web accessibility means that websites, tools, and technologies are designed and developed so that every individual (includes people with disbilities, people without disabilities like mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc., elderly population and many such ) such that people can perceive, understand, navigate, and interact with the Web and contribute to the Web.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+First thing I will work on is the Typography-using heading tags helps user gage the structure and organization of the website.
+Second thing is working on colour contrast- Contrast ratio of 4.5:1 for normal text  and Contrast ratio of 3:1 for large text-this helps in visual presentation.
+And the third thing is Focus-All activatable elements must be focusable and it should be handled in a logical order and consistant manner. 
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+variables are a way to store values so that we can reference and retrieve later on in our program. In simple terms everytime we dont need to declare new thing and store data in it. Once it's declared and defined we can use it again and again.
+
 4. What is the purpose of using functions in code?
+
+In simple terms function are a great time, work and space saver. It helps to maintain the clean code. By defination function is a "subprogram" that can be called by code external (or internal in the case of recursion) to the function. Like the program itself, a function is composed of a sequence of statements called the function body. Values can be passed to a function, and the function will return a value.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
